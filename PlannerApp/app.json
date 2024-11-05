@@ -1,0 +1,12 @@
+{
+  "expo": {
+    "extra": {
+      "eas": {
+        "projectId": "7ea43f03-8d6b-4f83-887c-9c1db5fa5e72"
+      }
+    },
+    "android": {
+      "package": "com.aasthacse.plannerapp"
+    }
+  }
+}
