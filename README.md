@@ -1,4 +1,4 @@
-# React Native Planner App
+# React Native Planner App 📝✒️
 
 ## Overview
 
@@ -28,7 +28,7 @@ To get started with this project, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/your-username/react-native-calendar-app.git
+   git clone https://github.com/aastha-cse/Planner.git
    ```
    
 2. Enter the Project directory
